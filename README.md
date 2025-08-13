@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Tania Perez Gonzalez  
 
-<!--
-**TaniaGlz34/TaniaGlz34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrolladora Web** con enfoque en crear sitios web, optimizadas y fáciles de usar.  
+🚀 Actualmente desarrollando proyectos con **Astro**, combinando buenas prácticas de SEO, diseño responsivo y rendimiento.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas  
+- **Frontend:** Astro, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS  
+- **CMS:** WordPress  
+- **Diseño:** Figma, Canva, Adobe Illustrator  
+- **Control de versiones:** Git, GitHub
+
+---
